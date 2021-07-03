@@ -1,2 +1,4 @@
 # Use HALs
 hal_client_domain(cameraserver, hal_lineage_camera_motor)
+
+set_prop(cameraserver, cameraserver_prop)
